@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import SqlEditor from './sqlEditor.vue';
+import SqlEditor from './component/sqlEditor.vue';
 export default {
   components: {
     SqlEditor
