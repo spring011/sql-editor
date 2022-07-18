@@ -1,6 +1,6 @@
 # sql-editor
 基于vue-codemirror实现的sql编辑器。<br/>
-[示例](https://spring-min.github.io/sql-editor/dist/index.html)
+[示例](https://spring011.github.io/sql-editor/dist/index.html)
 
 ##### 特性：
 1. 相应的语法结构，高亮
